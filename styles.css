@@ -54,6 +54,7 @@ tr, td {
     align-items: center;
     border-radius: 10px;
     padding: 10px;
+    text-align : justify;
 }
 
 .skills {
