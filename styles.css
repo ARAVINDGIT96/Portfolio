@@ -48,7 +48,7 @@ tr, td {
 .u {
     background-color: white;
     font-size: 20px;
-    height: 70px;
+    height: auto;
     display: flex;
     justify-content: center;
     align-items: center;
